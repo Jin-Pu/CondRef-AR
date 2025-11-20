@@ -56,7 +56,7 @@ ConRef-AR can generate continuous, plausible, and high-resolution sequences of l
 | <img src="assets/control_img.gif" alt="control animation" width="100%"/> | <img src="assets/aerial_img.gif" alt="aerial animation" width="100%"/> |
 
 </div>
-
+Please visit [Huggingface](https://huggingface.co/PuTorch/CondRef-AR) to download all weights 
 ## Files
 - `weights/sketch-gpt-xl.safetensors`, `weights/vq-16.safetensors`: pretrained weight
 - `configs/*.json`: model hyperparameters.
