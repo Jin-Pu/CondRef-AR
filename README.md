@@ -65,7 +65,10 @@ ConRef-AR can generate continuous, plausible, and high-resolution sequences of l
 - `CondRefAR/*`: inference code and pipeline.
 - `assets/example`: example images.
 - `app.py`: Gradio demo.
+
 Please visit *[Huggingface](https://huggingface.co/PuTorch/CondRef-AR)* to download all weights 
+
+
 ## Notes
 - Requires a GPU with bfloat16 support for best speed; CPU works but slow.
 - CFG params: `cfg_scale`, `temperature`, `top_k`, `top_p` control quality vs diversity.
